@@ -1,0 +1,156 @@
+h1{
+	color:blue;
+}
+h2{
+	font-size: 14px;
+}
+p{
+	font-size: 12px;
+	color: yellow;
+	background-color: black;
+}
+img{
+	border: red solid 2px;
+}
+.box1{
+	text-align: center;
+	background: red;
+	width: 960px;
+	margin: 5px auto;
+}
+.box2{
+	position: relative;
+	text-align: center;
+	background: green;
+	width: 960px;
+	left: 50%;
+	margin-left: -480px;
+}
+.box{
+	margin: 5px 10px;
+}
+.b2,.b3,.b4,.b5{
+	height: 1px;
+	background: lightblue;
+	overflow: hidden;
+}
+.b1{
+	margin: 0 5px;
+	border-top: 1px solid black;
+}
+.b2{
+	margin: 0 3px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.b3{
+	margin: 0 2px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.b4{
+	margin: 0 2px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.b5{
+	margin: 0 1px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.content{
+	text-align: center;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	background: lightblue;
+}
+.buju1{
+	margin: 15px 0;
+}
+.buju1 .a{
+	background: red;
+	width: 220px;
+	float: left;
+}
+.buju1 .b{
+	clear: box;
+	background: blue;
+}
+.buju1 .c{
+	background: yellow;
+}
+.buju2{
+	margin: 15px 0;
+}
+.buju2 .a{
+	background: red;
+	width: 220px;
+	position: absolute;
+}
+.buju2 .b{
+	margin-left: 220px;
+	background: blue;
+}
+.buju2 .c{
+	background: yellow;
+}
+.sanlie1 {
+	background: red;
+	margin: 15px 0;
+}
+
+.sanlie1 .a{
+	width: 220px;
+	float: left;
+	background: blue;
+}
+.sanlie1 .c{
+	background: yellow;
+	margin-right: 220px;
+}
+.sanlie1 .b{
+	width: 220px;
+	float: right;
+	background: green;
+}
+.sanlie2 {
+	background: red;
+	margin: 15px 0;
+	position: relative;
+
+}
+
+.sanlie2 .a{
+	background: blue;
+	width: 220px;
+	position: absolute;
+}
+.sanlie2 .c{
+	background: yellow;
+	margin: 0 220px;
+}
+.sanlie2 .b{
+	background: green;
+	width: 220px;
+	position: absolute;
+	right: 0px;
+
+}
+.fudong{
+	background: red;
+	margin: 5px;
+}
+.f{
+	background: blue;
+	width: 320px;
+	height: 180px;
+	margin: 5px;
+	float: left;
+}
+.clear{
+	clear: both;
+}
+body{
+	margin-bottom: 150px;
+}
+
