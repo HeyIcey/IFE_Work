@@ -603,13 +603,41 @@ td {
     text-align: center;
 }
 
-.post article {
+.gallery-main .post article {
     box-sizing: border-box;
     padding: 10px;
     font-size: 10px;
+}
+.art1{
     background: #cfb0de;
 }
-
+.art2{
+    background: #2348c9;
+}
+.art3{
+    background: #3afa0a;
+}
+.art4{
+    background: #fcb009;
+}
+.art5{
+    background: #2ebf1e;
+}
+.art6{
+    background: #aa00fc;
+}
+.art7{
+    background: #0bfaf3;
+}
+.art8{
+    background: #db2cf1;
+}
+.art9{
+    background: #fbf908;
+}
+.art10{
+    background: #fb1208;
+}
 .post article p {
     text-indent: 2em;
 }
